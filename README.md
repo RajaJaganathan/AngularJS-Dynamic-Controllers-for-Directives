@@ -1,4 +1,4 @@
-# AngularJS-Dynamic-Controllers-for-Directives
+## AngularJS-Dynamic-Controllers-for-Directives
 
 In directive you just add two new property called controller and name property are exactly needed here.
 
